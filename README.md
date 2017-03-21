@@ -57,6 +57,3 @@ Latex.
 		 3 COMANDOS DE EJECUCION, COMPILACION, Y
 		 APERTURA QUE SE MUESTRAN EN LOS COMANDOS
 		 DEL MAKE.
-     
-******************************************************/
-/*******************************************************/
