@@ -48,7 +48,6 @@ Latex.
 
 
 
-******************************************************/
 
  NOTA: SI POR ALGÚN COMANDO NO PERMITIDO POR EL
  		 COMPILADOR DE LATEX , EL PDF NO SE PUDIERA
