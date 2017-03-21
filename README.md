@@ -49,6 +49,7 @@ Latex.
 
 
 ******************************************************/
+
  NOTA: SI POR ALGÚN COMANDO NO PERMITIDO POR EL
  		 COMPILADOR DE LATEX , EL PDF NO SE PUDIERA
 		 GENERAR, PRESIONE INTRO Y VUELVA A GENERAR
@@ -56,5 +57,6 @@ Latex.
 		 3 COMANDOS DE EJECUCION, COMPILACION, Y
 		 APERTURA QUE SE MUESTRAN EN LOS COMANDOS
 		 DEL MAKE.
+     
 ******************************************************/
 /*******************************************************/
